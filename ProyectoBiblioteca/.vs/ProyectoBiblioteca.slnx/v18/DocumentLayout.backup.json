@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Tobiichi\\source\\repos\\ProyectoBiblioteca\\",
+  "WorkspaceRootPath": "C:\\Users\\mauro\\source\\repos\\Biblioteca-de-vectores\\ProyectoBiblioteca\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{70908636-5272-4A30-B4D9-97F8726A8704}|ProyectoBiblioteca\\ProyectoBiblioteca.csproj|c:\\users\\tobiichi\\source\\repos\\proyectobiblioteca\\proyectobiblioteca\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{70908636-5272-4A30-B4D9-97F8726A8704}|ProyectoBiblioteca\\ProyectoBiblioteca.csproj|solutionrelative:proyectobiblioteca\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9D1EA1D0-C739-BB89-80F2-33784F9E3151}|ProyectoBiblioteca\\ProyectoBiblioteca.csproj|c:\\users\\mauro\\source\\repos\\biblioteca-de-vectores\\proyectobiblioteca\\proyectobiblioteca\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D1EA1D0-C739-BB89-80F2-33784F9E3151}|ProyectoBiblioteca\\ProyectoBiblioteca.csproj|solutionrelative:proyectobiblioteca\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\Tobiichi\\source\\repos\\ProyectoBiblioteca\\ProyectoBiblioteca\\Class1.cs",
+              "DocumentMoniker": "C:\\Users\\mauro\\source\\repos\\Biblioteca-de-vectores\\ProyectoBiblioteca\\ProyectoBiblioteca\\Class1.cs",
               "RelativeDocumentMoniker": "ProyectoBiblioteca\\Class1.cs",
-              "ToolTip": "C:\\Users\\Tobiichi\\source\\repos\\ProyectoBiblioteca\\ProyectoBiblioteca\\Class1.cs",
+              "ToolTip": "C:\\Users\\mauro\\source\\repos\\Biblioteca-de-vectores\\ProyectoBiblioteca\\ProyectoBiblioteca\\Class1.cs",
               "RelativeToolTip": "ProyectoBiblioteca\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-03T02:28:13.483Z",
               "EditorCaption": ""
