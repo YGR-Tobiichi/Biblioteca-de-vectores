@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Tobiichi\\source\\repos\\ElProductoPunto\\ElProductoPunto\\ElProductoPunto.csproj": {}
+    "C:\\Users\\mauro\\source\\repos\\Biblioteca-de-vectores\\ElProductoPunto\\ElProductoPunto\\ElProductoPunto.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Tobiichi\\source\\repos\\ElProductoPunto\\ElProductoPunto\\ElProductoPunto.csproj": {
+    "C:\\Users\\mauro\\source\\repos\\Biblioteca-de-vectores\\ElProductoPunto\\ElProductoPunto\\ElProductoPunto.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Tobiichi\\source\\repos\\ElProductoPunto\\ElProductoPunto\\ElProductoPunto.csproj",
+        "projectUniqueName": "C:\\Users\\mauro\\source\\repos\\Biblioteca-de-vectores\\ElProductoPunto\\ElProductoPunto\\ElProductoPunto.csproj",
         "projectName": "ElProductoPunto",
-        "projectPath": "C:\\Users\\Tobiichi\\source\\repos\\ElProductoPunto\\ElProductoPunto\\ElProductoPunto.csproj",
-        "packagesPath": "C:\\Users\\Tobiichi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Tobiichi\\source\\repos\\ElProductoPunto\\ElProductoPunto\\obj\\",
+        "projectPath": "C:\\Users\\mauro\\source\\repos\\Biblioteca-de-vectores\\ElProductoPunto\\ElProductoPunto\\ElProductoPunto.csproj",
+        "packagesPath": "C:\\Users\\mauro\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mauro\\source\\repos\\Biblioteca-de-vectores\\ElProductoPunto\\ElProductoPunto\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Tobiichi\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\mauro\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

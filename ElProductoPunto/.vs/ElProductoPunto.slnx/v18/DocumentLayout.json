@@ -1,13 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Tobiichi\\source\\repos\\ElProductoPunto\\",
+  "WorkspaceRootPath": "C:\\Users\\mauro\\source\\repos\\Biblioteca-de-vectores\\ElProductoPunto\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7EFA6BF2-A9D7-48FD-A4FB-4CD55BDCC8EA}|ElProductoPunto\\ElProductoPunto.csproj|c:\\users\\tobiichi\\source\\repos\\elproductopunto\\elproductopunto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7EFA6BF2-A9D7-48FD-A4FB-4CD55BDCC8EA}|ElProductoPunto\\ElProductoPunto.csproj|solutionrelative:elproductopunto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Tobiichi\\source\\repos\\ProyectoBiblioteca\\ProyectoBiblioteca\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A65717E0-B0AA-4C41-5806-3E846EA7CE1B}|ElProductoPunto\\ElProductoPunto.csproj|c:\\users\\mauro\\source\\repos\\biblioteca-de-vectores\\elproductopunto\\elproductopunto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A65717E0-B0AA-4C41-5806-3E846EA7CE1B}|ElProductoPunto\\ElProductoPunto.csproj|solutionrelative:elproductopunto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -17,30 +14,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\Tobiichi\\source\\repos\\ProyectoBiblioteca\\ProyectoBiblioteca\\Class1.cs",
-              "RelativeDocumentMoniker": "..\\ProyectoBiblioteca\\ProyectoBiblioteca\\Class1.cs",
-              "ToolTip": "C:\\Users\\Tobiichi\\source\\repos\\ProyectoBiblioteca\\ProyectoBiblioteca\\Class1.cs",
-              "RelativeToolTip": "..\\ProyectoBiblioteca\\ProyectoBiblioteca\\Class1.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAswBoAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-03T06:58:20.815Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Tobiichi\\source\\repos\\ElProductoPunto\\ElProductoPunto\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\mauro\\source\\repos\\Biblioteca-de-vectores\\ElProductoPunto\\ElProductoPunto\\Program.cs",
               "RelativeDocumentMoniker": "ElProductoPunto\\Program.cs",
-              "ToolTip": "C:\\Users\\Tobiichi\\source\\repos\\ElProductoPunto\\ElProductoPunto\\Program.cs",
+              "ToolTip": "C:\\Users\\mauro\\source\\repos\\Biblioteca-de-vectores\\ElProductoPunto\\ElProductoPunto\\Program.cs",
               "RelativeToolTip": "ElProductoPunto\\Program.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAIwB8AAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-03T06:50:41.219Z",
               "EditorCaption": ""
